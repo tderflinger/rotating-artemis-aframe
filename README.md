@@ -13,6 +13,8 @@ You need to start your browser in the VR headset and go to this page:
 
 * http://vr.tderflinger.com.s3-website.eu-central-1.amazonaws.com
 
+In the browser click on the icon on the bottom right to make the rotating sculpture full screen and immersive.
+
 The Artemis Fountain is a sculpure by C. Bjerg and Poul Holsøe from 1934. It stands in the Tausen park in Copenhagen, Denmark.
 
 [Artemis](https://en.wikipedia.org/wiki/Artemis) is a goddess of the hunt and wild animals in ancient Greek religion.
