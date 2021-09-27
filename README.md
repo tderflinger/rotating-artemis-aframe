@@ -1,6 +1,8 @@
 3D Rotating Artemis Sculpture
 =============================
 
+Read more about the 3D rotating Artemis Sculpure in my blog: https://www.tderflinger.com/en/rotating-sculpture-vr-aframe
+
 ![Rotating Artemis sculpture](./rotating-sculpture.png)
 
 This is a demo of using the [A-frame framework](https://aframe.io) to display a 3D rotating sculpture in the browser.
